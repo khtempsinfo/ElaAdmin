@@ -1,5 +1,5 @@
 # ElaAdmin HTML5 Admin Dashboard Template
-**ElaAdnin** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://khtempsinfo.github.io/elaadmin/index.html
+**ElaAdnin** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://khtempsinfo.github.io/mrphuong/index.html
 
 # Preview
 
@@ -7,7 +7,7 @@
 
 ![ElaAdmin admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/ela-admin-free-admin-panel-template.jpg)
 
-### Demo Site: [Here](https://khtempsinfo.github.io/elaadmin/index.html)
+### Demo Site: [Here](https://khtempsinfo.github.io/mrphuong/index.html)
 
 ### TOC
 - [Built With](#built-with)
